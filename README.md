@@ -1,3 +1,12 @@
+<p align="left">
+🇺🇸 <a href="README_eng.md">English</a> |
+🇰🇷 <a href="README.md">한국어</a>
+</p>
+
+<p align="center">
+  <img src="assets/holstein_banner.png" width="100%" alt="BISON Data Platform Banner">
+</p>
+
 # HOLSTEIN 제조 데이터 플랫폼
 
 ## 개요
