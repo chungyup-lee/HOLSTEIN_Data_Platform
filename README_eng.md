@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/holstein_banner.png" width="100%" alt="BISON Data Platform Banner">
+</p>
+
 # HOLSTEIN Data Platform
 
 ## Overview
